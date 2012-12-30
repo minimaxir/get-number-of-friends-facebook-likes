@@ -1,7 +1,7 @@
 This R code calculates the # of Facebook Likes for brand pages for each of the specified users' friends on Facebooks using its Graph API, and outputs it in a tab-delimited spreadsheet. The purpose of this is to identify which of your friends has Liked the most brand page to see
 
 
-The # of Likes will not exactly match what is shown on the Facebook profile since counting method this includes Pages which have been deleted. The margin-of-error is around 10%.
+The # of Likes will not exactly match what is shown on the Facebook profile since this counting method this includes Pages which have been deleted. However, you'll still be able to identify your friends who are the most egregrious likers.
 
 The code has three prerequisites:
 
